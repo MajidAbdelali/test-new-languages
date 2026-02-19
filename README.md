@@ -4,7 +4,7 @@ A collaborative platform for students to find project partners with complementar
 
 ## Tech Stack
 
-- [Next.js 14](https://nextjs.org/) (App Router)
+- [Next.js 15](https://nextjs.org/) (App Router)
 - [React 18](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
